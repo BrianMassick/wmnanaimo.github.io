@@ -321,7 +321,7 @@ nav li a:hover {
     /* https://getcssscan.com/css-box-shadow-examples Box shadow #48 by Alligator */
 }
 .ressectionmidtop { /* Photo by Dids from Pexels */
-    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/Windows.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/windows.jpg");
     background-size:cover;
     background-position:center;
     border:5px solid black;
